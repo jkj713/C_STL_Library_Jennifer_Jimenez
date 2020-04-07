@@ -81,7 +81,7 @@ int main(int argc, char* argv[])
 
    // add 3 elements to the vs vector
    
-    vs.push_back(1);
+    vs.push_back(2);
     vs.push_back(3);
     vs.push_back(4);
 
